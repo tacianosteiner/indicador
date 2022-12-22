@@ -1,0 +1,2 @@
+# indicador
+volume/divergencia/convergencia
